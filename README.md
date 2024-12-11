@@ -32,4 +32,7 @@ Key features of the system include:
 clone the repository:
 ```bash
 git clone https://github.com/Gayathmi-Mohottige/Ticket-Manager-CLI.git
-cd 
+```
+
+## Usage
+After user starts the system the system asks the user, if they want to load the configurations from ther previous session or not. If user enters yes the system will load the configurations successfully. If user chooses to start a new configuration the system will prompt user to enter the new configurations. After user enters the 4 configurations and the vendor and customer count the system asks user to enter 1 to start the simulation or 2 to quit. If user chooses 2 the system will end without satrting the simulation. If not the simulation process will start and the vendor will start to add and customers will satrt to retrieve the tickets. After the max ticket count is reached and all the transactions are done or if the user press 2 to quit the simulation will stop and the transactions and configurations will be save in JSON files.
