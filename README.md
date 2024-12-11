@@ -25,4 +25,11 @@ Key features of the system include:
 
 ## Technologies Used
 - **Java SDK 21**: The project is built using Java SDK version 21.
-- **Google Gson Library** 
+- **Google Gson Library**
+
+## Setup Instructions
+**Download the project**
+clone the repository:
+```bash
+git clone https://github.com/Gayathmi-Mohottige/Ticket-Manager-CLI.git
+cd 
