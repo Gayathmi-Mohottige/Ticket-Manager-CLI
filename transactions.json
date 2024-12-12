@@ -2,97 +2,1063 @@
   {
     "type": "ADD",
     "name": "Vendor-1",
-    "numOfTickets": 9,
-    "remainingTickets": 9
+    "numOfTickets": 6,
+    "remainingTickets": 6
   },
   {
     "type": "RETRIEVE",
     "name": "Customer-3",
-    "numOfTickets": 8,
+    "numOfTickets": 4,
+    "remainingTickets": 2
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 1,
     "remainingTickets": 1
   },
   {
     "type": "ADD",
     "name": "Vendor-5",
+    "numOfTickets": 3,
+    "remainingTickets": 4
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 7,
+    "remainingTickets": 11
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 5,
+    "remainingTickets": 16
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 7,
+    "remainingTickets": 23
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 10,
+    "remainingTickets": 13
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 2,
+    "remainingTickets": 11
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 7,
+    "remainingTickets": 18
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 1,
+    "remainingTickets": 17
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 3,
+    "remainingTickets": 20
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 6,
+    "remainingTickets": 26
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
     "numOfTickets": 8,
-    "remainingTickets": 9
+    "remainingTickets": 34
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 2,
+    "remainingTickets": 36
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 9,
+    "remainingTickets": 27
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 8,
+    "remainingTickets": 19
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 2,
+    "remainingTickets": 17
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 1,
+    "remainingTickets": 18
   },
   {
     "type": "ADD",
     "name": "Vendor-4",
     "numOfTickets": 6,
-    "remainingTickets": 15
+    "remainingTickets": 24
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 10,
+    "remainingTickets": 34
   },
   {
     "type": "ADD",
     "name": "Vendor-3",
-    "numOfTickets": 8,
-    "remainingTickets": 23
-  },
-  {
-    "type": "ADD",
-    "name": "Vendor-2",
-    "numOfTickets": 8,
-    "remainingTickets": 31
-  },
-  {
-    "type": "RETRIEVE",
-    "name": "Customer-1",
-    "numOfTickets": 6,
-    "remainingTickets": 25
-  },
-  {
-    "type": "RETRIEVE",
-    "name": "Customer-2",
-    "numOfTickets": 6,
-    "remainingTickets": 19
-  },
-  {
-    "type": "RETRIEVE",
-    "name": "Customer-3",
-    "numOfTickets": 5,
-    "remainingTickets": 14
-  },
-  {
-    "type": "RETRIEVE",
-    "name": "Customer-2",
-    "numOfTickets": 6,
-    "remainingTickets": 8
+    "numOfTickets": 7,
+    "remainingTickets": 41
   },
   {
     "type": "ADD",
     "name": "Vendor-2",
     "numOfTickets": 4,
-    "remainingTickets": 12
+    "remainingTickets": 45
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 10,
+    "remainingTickets": 35
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 7,
+    "remainingTickets": 28
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 3,
+    "remainingTickets": 31
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 6,
+    "remainingTickets": 37
   },
   {
     "type": "RETRIEVE",
     "name": "Customer-1",
     "numOfTickets": 7,
-    "remainingTickets": 5
+    "remainingTickets": 30
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 8,
+    "remainingTickets": 38
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 10,
+    "remainingTickets": 48
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 3,
+    "remainingTickets": 51
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 9,
+    "remainingTickets": 42
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 4,
+    "remainingTickets": 38
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 4,
+    "remainingTickets": 42
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 10,
+    "remainingTickets": 52
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 9,
+    "remainingTickets": 43
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 10,
+    "remainingTickets": 53
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 3,
+    "remainingTickets": 56
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 2,
+    "remainingTickets": 58
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 2,
+    "remainingTickets": 56
   },
   {
     "type": "ADD",
     "name": "Vendor-3",
     "numOfTickets": 6,
-    "remainingTickets": 11
+    "remainingTickets": 62
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 6,
+    "remainingTickets": 68
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 3,
+    "remainingTickets": 65
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 5,
+    "remainingTickets": 60
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 10,
+    "remainingTickets": 70
   },
   {
     "type": "ADD",
     "name": "Vendor-4",
-    "numOfTickets": 1,
-    "remainingTickets": 12
+    "numOfTickets": 4,
+    "remainingTickets": 74
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 5,
+    "remainingTickets": 79
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 4,
+    "remainingTickets": 75
   },
   {
     "type": "ADD",
     "name": "Vendor-1",
     "numOfTickets": 3,
-    "remainingTickets": 15
+    "remainingTickets": 78
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 9,
+    "remainingTickets": 69
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 6,
+    "remainingTickets": 75
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 4,
+    "remainingTickets": 71
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 1,
+    "remainingTickets": 72
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 7,
+    "remainingTickets": 79
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 10,
+    "remainingTickets": 89
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 8,
+    "remainingTickets": 81
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 7,
+    "remainingTickets": 88
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 7,
+    "remainingTickets": 95
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 7,
+    "remainingTickets": 88
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 9,
+    "remainingTickets": 79
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 5,
+    "remainingTickets": 84
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 5,
+    "remainingTickets": 89
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 7,
+    "remainingTickets": 96
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 2,
+    "remainingTickets": 94
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 2,
+    "remainingTickets": 96
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 5,
+    "remainingTickets": 101
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 2,
+    "remainingTickets": 99
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 1,
+    "remainingTickets": 98
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 10,
+    "remainingTickets": 108
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 6,
+    "remainingTickets": 114
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 3,
+    "remainingTickets": 117
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 6,
+    "remainingTickets": 111
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 1,
+    "remainingTickets": 112
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 9,
+    "remainingTickets": 121
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 3,
+    "remainingTickets": 118
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 6,
+    "remainingTickets": 112
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 1,
+    "remainingTickets": 113
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 5,
+    "remainingTickets": 118
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 2,
+    "remainingTickets": 120
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 5,
+    "remainingTickets": 115
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 8,
+    "remainingTickets": 107
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 5,
+    "remainingTickets": 112
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 4,
+    "remainingTickets": 116
   },
   {
     "type": "ADD",
     "name": "Vendor-5",
     "numOfTickets": 9,
-    "remainingTickets": 24
+    "remainingTickets": 125
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 10,
+    "remainingTickets": 135
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 1,
+    "remainingTickets": 134
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 1,
+    "remainingTickets": 135
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 5,
+    "remainingTickets": 130
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 9,
+    "remainingTickets": 139
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 5,
+    "remainingTickets": 134
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 8,
+    "remainingTickets": 142
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 9,
+    "remainingTickets": 151
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 10,
+    "remainingTickets": 141
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 10,
+    "remainingTickets": 151
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 4,
+    "remainingTickets": 155
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 4,
+    "remainingTickets": 151
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 1,
+    "remainingTickets": 152
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 8,
+    "remainingTickets": 160
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 9,
+    "remainingTickets": 151
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 5,
+    "remainingTickets": 146
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 2,
+    "remainingTickets": 148
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 4,
+    "remainingTickets": 152
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 7,
+    "remainingTickets": 159
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 4,
+    "remainingTickets": 155
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 1,
+    "remainingTickets": 156
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 7,
+    "remainingTickets": 163
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 4,
+    "remainingTickets": 159
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 8,
+    "remainingTickets": 151
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 8,
+    "remainingTickets": 159
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 6,
+    "remainingTickets": 165
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 5,
+    "remainingTickets": 170
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 5,
+    "remainingTickets": 165
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 4,
+    "remainingTickets": 169
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 10,
+    "remainingTickets": 159
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 9,
+    "remainingTickets": 168
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 3,
+    "remainingTickets": 165
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 8,
+    "remainingTickets": 173
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 5,
+    "remainingTickets": 178
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 8,
+    "remainingTickets": 186
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 9,
+    "remainingTickets": 177
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 1,
+    "remainingTickets": 176
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 3,
+    "remainingTickets": 173
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 7,
+    "remainingTickets": 180
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 8,
+    "remainingTickets": 188
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 2,
+    "remainingTickets": 190
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 6,
+    "remainingTickets": 196
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 8,
+    "remainingTickets": 188
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 8,
+    "remainingTickets": 196
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 4,
+    "remainingTickets": 192
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 6,
+    "remainingTickets": 198
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 5,
+    "remainingTickets": 193
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 4,
+    "remainingTickets": 197
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 6,
+    "remainingTickets": 191
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 8,
+    "remainingTickets": 199
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 10,
+    "remainingTickets": 189
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-5",
+    "numOfTickets": 8,
+    "remainingTickets": 197
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-3",
+    "numOfTickets": 3,
+    "remainingTickets": 200
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 8,
+    "remainingTickets": 192
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-2",
+    "numOfTickets": 7,
+    "remainingTickets": 199
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 10,
+    "remainingTickets": 189
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-4",
+    "numOfTickets": 4,
+    "remainingTickets": 193
+  },
+  {
+    "type": "ADD",
+    "name": "Vendor-1",
+    "numOfTickets": 7,
+    "remainingTickets": 200
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 4,
+    "remainingTickets": 196
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 8,
+    "remainingTickets": 188
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 9,
+    "remainingTickets": 179
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 7,
+    "remainingTickets": 172
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 5,
+    "remainingTickets": 167
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 2,
+    "remainingTickets": 165
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 9,
+    "remainingTickets": 156
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 8,
+    "remainingTickets": 148
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 5,
+    "remainingTickets": 143
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 10,
+    "remainingTickets": 133
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 4,
+    "remainingTickets": 129
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 7,
+    "remainingTickets": 122
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 7,
+    "remainingTickets": 115
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 7,
+    "remainingTickets": 108
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 3,
+    "remainingTickets": 105
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 5,
+    "remainingTickets": 100
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 9,
+    "remainingTickets": 91
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 7,
+    "remainingTickets": 84
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 6,
+    "remainingTickets": 78
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 4,
+    "remainingTickets": 74
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 4,
+    "remainingTickets": 70
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 7,
+    "remainingTickets": 63
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 6,
+    "remainingTickets": 57
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 9,
+    "remainingTickets": 48
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 7,
+    "remainingTickets": 41
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 1,
+    "remainingTickets": 40
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 1,
+    "remainingTickets": 39
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 6,
+    "remainingTickets": 33
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 5,
+    "remainingTickets": 28
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 6,
+    "remainingTickets": 22
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 5,
+    "remainingTickets": 17
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-3",
+    "numOfTickets": 5,
+    "remainingTickets": 12
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-2",
+    "numOfTickets": 8,
+    "remainingTickets": 4
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 3,
+    "remainingTickets": 1
+  },
+  {
+    "type": "RETRIEVE",
+    "name": "Customer-1",
+    "numOfTickets": 1,
+    "remainingTickets": 0
   }
 ]
